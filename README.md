@@ -2,7 +2,7 @@
 
 About Me:
 
-🧑‍🎓 Data Analytics and Computational Social Science (DACSS) Grad Student at the University of Massachusetts Amherst.
+🧑‍🎓 Data Analytics and Computational Social Science (DACSS) Grad Student at the University of Massachusetts Amherst. <br>
 📝 Recently completed my Master of Science in Mathematics at Sardar Vallabhbhai National Institute of Technology (SVNIT), Surat, India, and worked on my thesis: Evaluating Psychometric Features and Contextual Embeddings of Biomedical Texts.
 🚀 Interested in Data Science and Analytics, Machine Learning, Natural Language Processing (NLP), Deep Learning (Neural Networks), Data Structures and Algorithms, Competitive Programming, Probability and Statistics, Predictive Modeling, and Inferential Analysis.
 
@@ -27,7 +27,5 @@ Fun Facts:
 
 Get in Touch:
 
-💼 LinkedIn
-📧 Email
-
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+💼 [LinkedIn](https://www.linkedin.com/in/suryamgupta/)
+📧 [Email](suryamgupta12345@gmail.com)
