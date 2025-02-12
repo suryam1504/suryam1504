@@ -2,9 +2,9 @@
 
 About Me:
 
-🧑‍🎓 Data Analytics and Computational Social Science (DACSS) Grad Student at the University of Massachusetts Amherst. <br>
-📝 Recently completed my Master of Science in Mathematics at Sardar Vallabhbhai National Institute of Technology (SVNIT), Surat, India, and worked on my thesis: Evaluating Psychometric Features and Contextual Embeddings of Biomedical Texts. <br>
-🚀 Interested in Data Science and Analytics, Machine Learning, Natural Language Processing (NLP), Deep Learning (Neural Networks), Data Structures and Algorithms, Competitive Programming, Probability and Statistics, Predictive Modeling, and Inferential Analysis. <br>
+- 🧑‍🎓 Data Analytics and Computational Social Science (DACSS) Grad Student at the University of Massachusetts Amherst. <br>
+- 📝 Recently completed my Master of Science in Mathematics at Sardar Vallabhbhai National Institute of Technology (SVNIT), Surat, India, and worked on my thesis: Evaluating Psychometric Features and Contextual Embeddings of Biomedical Texts. <br>
+- 🚀 Interested in Data Science and Analytics, Machine Learning, Natural Language Processing (NLP), Deep Learning (Neural Networks), Data Structures and Algorithms, Competitive Programming, Probability and Statistics, Predictive Modeling, and Inferential Analysis. <br>
 
 Technical and Soft Skills: <br>
 
