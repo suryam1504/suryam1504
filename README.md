@@ -23,7 +23,7 @@ Fun Facts: <br>
 
 📚 I love reading fictional novels, having recently read A Christmas Carol by Charles Dickens. <br>
 ✈️ I studied abroad in Switzerland in the summer of 2023 and am currently in the US, and I love traveling and experiencing new cultures and traditions. <br>
-🧠 I also like playing chess and learning to play guitar. <br>
+♞ I also like playing chess and learning to play guitar. <br>
 
 Get in Touch: <br>
 
