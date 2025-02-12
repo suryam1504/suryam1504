@@ -8,7 +8,7 @@ About Me:
 
 Technical and Soft Skills: <br>
 
-🐍 Programming Languages - Python | R | C | C++ | Java | MATLAB | SQL
+🐍 Programming Languages - Python | R | C | C++ | Java | MATLAB | SQL <br>
 🛠️ Softwares - Jupyter Notebook | Google Colab | RStudio | Quarto | AMPL | LaTeX | Excel | Power BI | Visual Studio Code | LaTeX (Overleaf) | LIWC | Adobe Premiere Pro <br>
 🔗 Libraries and Frameworks - NumPy | pandas | Matplotlib | Seaborn | scikit-learn | TensorFlow | PyTorch | Keras | transformers | nltk | spaCy | pyLDAvis | readability <br>
 🤝 Soft Skills - Technologically Adaptable | Teamwork | Problem-Solving | Time-Management | Communication | Presentation | Keen Listener <br>
@@ -17,7 +17,7 @@ Work Experience: <br>
 
 👨‍💻 Currently working as a Research Assistant with Prof. Dr. Omer Yalcin at UMass Amherst, working on developing an automated model to detect politically motivated edits on Wikipedia. <br>
 📜 As a Graduate Tutor and Consultant of my program, I am also currently providing targeted tutoring and consultation to over 60+ graduate students, assisting with Python, R, and statistical methods for Data Science, Quantitative Analysis, and NLP coursework to build their confidence and analytical skills. <br>
-🌐 Interned with multiple professors from universities such as SVNIT, IIM Ahmedabad, IIM Nagpur, IDSIA - USI/SUPSI (Switzerland), mostly working on Machine Learning and NLP techniques, along with learning more about tools, software, and state-of-the-art models used. <br>
+🌐 Interned with various professors from universities such as SVNIT, IIM Ahmedabad, IIM Nagpur, IDSIA - USI/SUPSI (Switzerland), mostly working on Machine Learning and NLP techniques, along with learning more about tools, software, and state-of-the-art models used. <br>
 
 Fun Facts: <br>
 
