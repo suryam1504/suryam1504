@@ -8,8 +8,8 @@ About Me:
 
 Technical and Soft Skills: <br>
 
-- 🐍 Programming Languages - Python | R | C | C++ | Java | MATLAB | SQL <br>
-- 🛠️ Softwares - Jupyter Notebook | Google Colab | RStudio | Quarto | AMPL | LaTeX | Excel | Power BI | Visual Studio Code | LaTeX (Overleaf) | LIWC | Adobe Premiere Pro <br>
+- 🐍 Programming Languages - Python | R | Git | C | C++ | Java | MATLAB | SQL <br>
+- 🛠️ Softwares - Jupyter Notebook | Google Colab | RStudio | GitHub | Quarto | AMPL | LaTeX | Excel | Power BI | Visual Studio Code | LaTeX (Overleaf) | LIWC | Adobe Premiere Pro <br>
 - 🔗 Libraries and Frameworks - NumPy | pandas | Matplotlib | Seaborn | scikit-learn | TensorFlow | PyTorch | Keras | transformers | nltk | spaCy | pyLDAvis | readability <br>
 - 🤝 Soft Skills - Technologically Adaptable | Teamwork | Problem-Solving | Time-Management | Communication | Presentation | Keen Listener <br>
 
